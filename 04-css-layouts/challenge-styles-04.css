@@ -39,13 +39,11 @@ body {
 .price-container {
   /*   background-color: lavender; */
   width: 243px;
-  float: left;
   margin-right: 40px;
   margin-top: 20px;
 }
 .price {
   font-size: 24px;
-  float: left;
 }
 
 .shipping {
@@ -55,7 +53,6 @@ body {
   color: #777;
   margin-bottom: 20px;
   margin-top: 8px;
-  float: right;
 }
 
 .sale {
