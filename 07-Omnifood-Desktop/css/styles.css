@@ -89,6 +89,26 @@ html {
 /* GENERAL LAYOUT */
 /******************/
 
+.container {
+  /* 1140px another max-width standard */
+  max-width: 120rem;
+  padding: 0 3.2rem;
+  margin: 0 auto;
+}
+
+.grid {
+  display: grid;
+  gap: 9.6rem;
+}
+
+.grid--2-cols {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.grid--4-cols {
+  grid-template-columns: repeat(4, 1fr);
+}
+
 .heading-primary {
   margin-bottom: 3.2rem;
   font-size: 5.2rem;
@@ -261,4 +281,13 @@ html {
 .delivered-text span {
   color: #a15818;
   font-weight: 700;
+}
+
+/******************/
+/*   Section How     */
+/******************/
+
+.section-how {
+  padding: 9.6rem 0;
+  background-color: orangered;
 }
