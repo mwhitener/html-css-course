@@ -157,6 +157,10 @@ body {
   margin-right: 1.6rem !important;
 }
 
+strong {
+  font-weight: 500;
+}
+
 .btn:link,
 .btn:visited {
   display: inline-block;
