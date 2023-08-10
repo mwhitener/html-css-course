@@ -16,12 +16,12 @@ Brand color: #e67e22
 
 The smart 365-days-per-year food subscription that will make you eat healthy again. Tailored to your personal tastes and nutritional needs. We have delivered 250,000+ meals last year! -->
 
-### Omnifood features
+<!-- ### Omnifood features
 
 Never cook again!: Our subscriptions cover 365 days per year, even including major holidays.
 Local and organic: Our cooks only use local, fresh, and organic products to prepare your meals.
 No waste: All our partners only use reusable containers to package all your meals.
-Pause anytime: Going on vacation? Just pause your subscription, and we refund unused days.
+Pause anytime: Going on vacation? Just pause your subscription, and we refund unused days. -->
 
 <!-- ### How Omnifood works
 
@@ -35,7 +35,7 @@ Approve your weekly meal plan: Once per week, approve the meal plan generated fo
 
 Receive meals at convenient time: Best chefs in town will cook your selected meal every day, and we will deliver it to your door whenever works best for you. You can change delivery schedule and address daily! -->
 
-### Omnifood works with any diet
+<!-- ### Omnifood works with any diet
 
 Vegetarian
 Vegan
@@ -45,9 +45,9 @@ Lactose-free
 Keto
 Paleo
 Low FODMAP
-Kid-friendly
+Kid-friendly -->
 
-### Sample meals
+<!-- ### Sample meals
 
 **Omnifood AI chooses from 5,000+ recipes**
 
@@ -65,7 +65,7 @@ Meal 2: Avocado Salad
 - Calories: 400
 - NutriScore (Registered): 92
 - Average rating: 4.8
-- Number reviews: 441
+- Number reviews: 441 -->
 
 ### We offer a free sample meal
 
@@ -73,7 +73,7 @@ Meal 2: Avocado Salad
 
 Healthy, tasty and hassle-free meals are waiting for you. Start eating well today. You can cancel or pause anytime. And the first meal is on us!
 
-### We have 2 pricing plans
+<!-- ### We have 2 pricing plans
 
 Prices include all applicable taxes. Users can cancel at any time.
 
@@ -88,7 +88,7 @@ Complete: $649 per month
 - 2 meal2 per day
 - Order 24/7
 - Delivery is free
-- Get access to latest recipes
+- Get access to latest recipes -->
 
 ### Photo gallery
 
